@@ -37,12 +37,13 @@ const Testimonials = () => {
   return (
     <div className="mx-24 pb-32">
       <h1 className="text-4xl pb-10 pt-32 text-left font-black max-w-md">
-        Don't Just Build Software, Build Success
+        Don't just build software, build success
       </h1>
       <Reveal direction="right">
         <div className="flex gap-2">
           {feedbacks.map((feedback) => (
             <div
+              key={feedback.id}
               className="border flex-1 rounded-xl p-5"
               style={{
                 borderColor: `${feedback.borderColor}`,
