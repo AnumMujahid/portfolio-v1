@@ -57,7 +57,7 @@ const About = () => {
           <div className="max-w-lg pb-20">
             <h2 className="text-4xl font-black">What I can do for you</h2>
             <p className="text-sm py-10">
-              As Co-founder and Full Stack Developer at{" "}
+              As Founder and Full Stack Developer at{" "}
               <a href="https://www.kueenztechnologies.com">
                 Kueenz Technologies
               </a>
