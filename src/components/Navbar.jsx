@@ -79,7 +79,7 @@ export default function Navbar() {
                   href="https://calendly.com/kueenz-technologies/design-build-powerful-softwares-for-your-business"
                   className="py-2 px-4 outline-none border-none cursor-pointer z-10 text-sm font-normal rounded-full bg-[#77fa60] text-[#0e1d42]"
                 >
-                  Let's Talk
+                  Let's Connect
                 </a>
               </div>
             </div>
