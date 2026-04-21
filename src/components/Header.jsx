@@ -30,7 +30,7 @@ export default function Header() {
           <div className="md:max-w-3xl py-20 sm:py-28 lg:py-32 px-10">
             <div className="hidden sm:mb-8 sm:flex sm:justify-start">
               <div className="py-1 text-3xl font-bold text-[#5173aa]">
-                Hi, I'm Anum
+                Hi, I'm Fatima
               </div>
             </div>
             <div className="text-left">
@@ -52,7 +52,7 @@ export default function Header() {
                     href="https://calendly.com/kueenz-technologies/design-build-powerful-softwares-for-your-business"
                     className="w-28 pt-[10px] pb-3 outline-none border-none cursor-pointer z-10 text-sm font-normal px-4 rounded-full bg-[#3bff0f] text-[#0e1d42]"
                   >
-                    Let's Talk
+                    Let's Connect
                   </a>
                 </div>
               </div>
