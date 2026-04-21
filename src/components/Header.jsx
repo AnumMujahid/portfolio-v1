@@ -52,7 +52,7 @@ export default function Header() {
                     href="https://calendly.com/kueenz-technologies/design-build-powerful-softwares-for-your-business"
                     className="w-28 pt-[10px] pb-3 outline-none border-none cursor-pointer z-10 text-sm font-normal px-4 rounded-full bg-[#3bff0f] text-[#0e1d42]"
                   >
-                    Let's Talk
+                    Let's Connect
                   </a>
                 </div>
               </div>
